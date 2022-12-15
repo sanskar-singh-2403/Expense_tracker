@@ -1,3 +1,6 @@
+#This is a simple react app where you can put your expenses, the app was made using useContext and useReducer react hooks
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
